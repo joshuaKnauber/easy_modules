@@ -7,7 +7,7 @@
 # - When sharing your addon you can remove this file or disable live refresh below
 #     - You don't need to do this if you add files that could change when the addon is installed to the blacklist and disable logs
 
-# Contribute at ___.com
+# Contribute at https://github.com/joshuaKnauber/easy_modules/tree/main
 
 import os
 import sys
