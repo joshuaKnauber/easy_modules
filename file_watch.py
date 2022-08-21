@@ -7,10 +7,9 @@
 # - When sharing your addon you can remove this file or disable live refresh below
 #     - You don't need to do this if you add files that could change when the addon is installed to the blacklist and disable logs
 
-# Contribute at https://github.com/joshuaKnauber/easy_modules/tree/main
+# Contribute at https://github.com/joshuaKnauber/easy_modules
 
 import os
-import sys
 from threading import Thread
 from time import sleep
 
